@@ -1,0 +1,16 @@
+name: finance
+channels:
+        - conda-forge
+dependencies:
+        - python
+        - pip
+        - pandas
+        - jupyterlab
+        - requests
+        - scipy
+        - numpy
+        - statsmodels
+        - scikit-learn
+        - toml
+        - plotly
+        - plotly_express
